@@ -28,4 +28,4 @@ This script sets up an S3 bucket for hosting a static website using AWS CLI. It 
 2. Run the script using the following command:
 
    ```bash
-   ./setup-s3-bucket.sh
+   ./s3-setup-deployment.sh
