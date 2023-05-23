@@ -8,7 +8,7 @@ REGION="region"
 S3_BUCKET_POLICY="file://bucket-policy.json"
 S3_NEW_BUCKET_POLICY="file://new-policy.json"
 S3_STATIC_WEBSITE_CONFIG="file://website-config.json"
-DIRECTORY_PATH="../dist/portfolio/"
+DIRECTORY_PATH="path"
 
 # Define the path to the JSON file
 BUCKET_POLICY_JSON_FILE="bucket-policy.json"
